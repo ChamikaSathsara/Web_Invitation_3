@@ -120,7 +120,7 @@ z-index: 5;
     position: absolute;
     width: 394px;
     height: 284px;
-    background: #fffd79;
+    background-image: url("/background.jpg");
     top: 8px;
     left: 3px;
     border-left: 1px solid #ccc;
@@ -144,7 +144,7 @@ z-index: 5;
     width: 392px;
     height: 50%;
     left: -1px;
-    background:  #fffd79;
+    background-image: url("/background.jpg");
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
    /*background: url('http://www.placecage.com/c/400/143');*/
